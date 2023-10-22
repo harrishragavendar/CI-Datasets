@@ -6,11 +6,11 @@ High,Young,University,Single,High
 Low,Old,University,Married,Low
 High,Young,College,Single,Medium
 Medium,Young,College,Married,Medium
-Medium,Old,High School,School,Low
+Medium,Old,High School,Single,Low
 High,Old,University,Single,High
-Low,Old,High School,School,Low
+Low,Old,High School,Married,Low
 Medium,Young,College,Married,Medium
-Medium,Old,High School,School,Low
+Medium,Old,High School,Single,Low
 High,Old,University,Single,High
-Low,Old,High School,School,Low
+Low,Old,High School,Married,Low
 Medium,Young,College,Married,Medium
