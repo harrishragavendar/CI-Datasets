@@ -1,0 +1,301 @@
+S.No,FarmerName,Father_OR_HusbandName,SurveyNumber,Block,Village,pH,EC,Organic Carbon(%),Nitrogen (kg/ha),Phosphorous(kg/ha),Potassium(kg/ha),Sulphur(ppm),Zinc(ppm),Boron(ppm),Iron(ppm),Manganese(ppm),Copper(ppm),lime status ,fertilizer
+1,Mariammal,Raman,44/1B,Virudhunagar,Sivagnanapuram,7.5,1.2,0.1,115.5,6.5,781.25,70.69,0.17,0.086,2.34,4.78,0.78,N,Super Phosphate
+2,Pandi,Muthukumar,4/1A,Virudhunagar,Sivagnanapuram,7.6,1.3,0.09,94.5,7.5,700.0,55.67,0.09,0.107,2.56,3.96,0.95,N,Urea
+3,Rajalakshmi,Genkaiyan,8/4-,Virudhunagar,Sivagnanapuram,7.5,1.2,0.09,98.0,14.75,375.0,71.03,0.07,0.147,3.04,5.65,0.72,M,Urea
+4,Ayanraj,Pandiyan,37/1A,Virudhunagar,Sivagnanapuram,7.8,0.9,0.07,77.0,8.25,468.75,77.53,0.14,0.117,3.17,6.33,0.94,N,Urea
+5,Leelavathi,Chithambaram,39/3,Virudhunagar,Sivagnanapuram,8.0,0.4,0.09,101.5,3.75,1053.55,64.02,0.27,0.142,3.28,8.14,0.07,M,Urea
+6,Ramaraj,Ramasamy,58/2,Virudhunagar,Sivagnanapuram,8.2,0.2,0.1,115.5,2.75,843.75,67.02,0.35,0.155,1.45,4.63,0.94,N,Super Phosphate
+7,Ramaiya,Subbaiya,63/6B,Virudhunagar,Sivagnanapuram,8.3,0.2,0.1,105.0,2.25,712.5,64.02,0.48,0.121,2.75,6.68,1.06,N,Urea
+8,Karmegam,Karuppanakonar,59/2,Virudhunagar,Sivagnanapuram,8.1,0.3,0.09,98.0,1.75,613.625,67.35,0.17,0.155,2.68,2.96,1.37,N,Urea
+9,Jeyamani,Valaguruvan,72/2A,Virudhunagar,Sivagnanapuram,7.8,0.2,0.09,94.5,2.75,579.525,58.34,0.36,0.09,2.36,9.45,1.16,N,Urea
+10,Solaimani,Adaikalam,74/2B,Virudhunagar,Sivagnanapuram,7.8,0.1,0.07,77.0,3.75,534.075,55.01,0.16,0.155,2.78,7.69,1.35,N,Urea
+11,Selvanayagam,Ramasamy,42/2B2,Virudhunagar,Sivagnanapuram,7.8,0.1,0.1,115.5,4.25,843.75,77.53,0.15,0.088,2.53,5.41,0.95,N,Super Phosphate
+12,Kanimurugan,Thirumal,19/1B,Virudhunagar,Sivagnanapuram,7.9,0.3,0.09,98.0,2.75,579.525,61.35,0.72,0.097,3.64,5.27,0.72,N,Urea
+13,Alagarsamy,Muthukonar,10/2B,Virudhunagar,Sivagnanapuram,7.5,1.0,0.07,82.0,6.0,1053.55,67.69,0.94,0.136,2.52,5.42,0.63,N,Urea
+14,Ashokan,Raju,10/2-,Virudhunagar,Sivagnanapuram,7.7,1.0,0.07,87.5,5.5,1225.0,77.53,0.09,0.093,2.81,4.31,0.14,N,Urea
+15,Arunkumar,Vellaisamy,14/2A1,Virudhunagar,Sivagnanapuram,7.6,1.4,0.09,91.0,5.0,1035.7,54.34,0.24,0.109,2.32,3.72,0.27,N,Urea
+16,Krishnamoorthy,Rasu,16/1B,Virudhunagar,Sivagnanapuram,8.1,0.6,0.09,101.5,5.0,511.35,59.68,0.94,0.091,2.76,7.24,0.82,N,Urea
+17,Pandiyammal,Ramar,17/1B,Virudhunagar,Sivagnanapuram,7.6,0.9,0.07,80.5,6.5,750.0,35.72,0.72,0.098,3.15,5.32,0.94,M,Urea
+18,Ponnusamy,Sankaralingam,30/2A,Virudhunagar,Sivagnanapuram,8.1,0.6,0.09,91.0,1.0,662.5,37.25,0.63,0.117,2.15,4.78,0.15,N,Urea
+19,Manickam,Gopal,28/2B,Virudhunagar,Sivagnanapuram,7.8,0.6,0.1,112.0,6.0,354.15,40.82,0.52,0.142,2.17,3.94,0.72,M,Super Phosphate
+20,Mariammal,Ilango,22/7A,Virudhunagar,Sivagnanapuram,7.9,0.3,0.07,82.0,5.0,479.15,21.96,0.49,0.158,2.61,3.72,0.63,N,Urea
+21,Krishnan,Narayanreddiyar,649/7,Virudhunagar,Chatrareddiyapatti,7.8,0.04,0.04,126.0,5.5,312.5,41.33,0.181,0.072,5.42,10.8,0.645,M,Super Phosphate
+22,Manikandan,Mariyappan,11/1-,Virudhunagar,Chatrareddiyapatti,8.0,0.09,0.4,101.5,7.5,187.5,40.82,0.126,0.07,5.84,9.87,0.674,M,Urea
+23,Azhvar,Narayanreddiyar,649/3,Virudhunagar,Chatrareddiyapatti,8.0,0.03,0.44,126.0,5.0,232.15,41.33,0.132,0.069,5.78,9.47,1.1,M,Super Phosphate
+24,Brahman,Vellaichamy Aasary,36/3,Virudhunagar,Chatrareddiyapatti,8.0,0.09,0.9,91.0,8.25,333.325,31.8,0.143,0.035,5.75,9.92,0.498,M,Urea
+25,Rengasamy,Chinnavengatramureddiyar,513/1A2,Virudhunagar,Chatrareddiyapatti,8.1,0.04,0.9,147.0,8.25,260.425,40.82,0.149,0.042,6.4,10.8,0.592,M,Super Phosphate
+26,Narmadha,Rajangam,237/4,Virudhunagar,Chatrareddiyapatti,7.9,0.03,0.9,112.0,10.75,385.4,40.31,0.158,0.05,6.5,10.9,0.632,M,Potash
+27,Velmurugan,Jeyavel,237/3,Virudhunagar,Chatrareddiyapatti,7.8,0.06,0.9,147.0,10.75,406.25,39.8,0.141,0.051,2.35,10.7,0.618,M,Potash
+28,Palanisamy,Mariyappan,11/1-,Virudhunagar,Chatrareddiyapatti,8.4,0.06,0.48,150.5,4.25,312.5,39.8,0.039,0.052,2.67,7.0,0.521,M,Super Phosphate
+29,Kandhasamy,Narayanan,457/4B,Virudhunagar,Chatrareddiyapatti,8.1,0.05,0.44,115.5,12.5,468.75,40.82,0.042,0.002,2.55,7.11,0.518,M,Potash
+30,Ramesh,Solai,231/1,Virudhunagar,Chatrareddiyapatti,8.0,0.04,0.24,150.5,6.5,458.325,41.33,0.031,0.014,5.62,7.02,0.534,M,Super Phosphate
+31,Muniyappan,Mokkaveeran,634/1,Virudhunagar,Chatrareddiyapatti,8.0,0.08,0.6,115.5,8.75,270.825,40.82,0.102,0.028,5.78,8.92,0.521,M,Super Phosphate
+32,Muthulakshmi,Thirupathy,502/5B,Virudhunagar,Chatrareddiyapatti,8.0,0.09,0.48,115.5,5.0,281.25,40.31,0.122,0.035,5.21,9.49,0.508,M,Super Phosphate
+33,Karuppaiya,Sangilithevar,567/2A,Virudhunagar,Chatrareddiyapatti,7.9,0.1,0.4,122.5,7.5,250.0,41.84,0.108,0.051,0.21,9.35,0.51,M,Super Phosphate
+34,Sandha,Pandurengan,617,Virudhunagar,Chatrareddiyapatti,7.9,0.03,0.48,119.0,7.0,205.35,41.33,0.024,0.05,0.2,0.15,0.492,M,Super Phosphate
+35,Subburaj,Mahalingam,129/2,Virudhunagar,Chatrareddiyapatti,8.7,0.04,0.5,112.0,6.5,281.25,42.35,0.016,0.054,2.95,0.12,0.486,M,Super Phosphate
+36,T Rohini,Thirukumar,"515/1a,616",Virudhunagar,Chatrareddiyapatti,8.2,0.05,0.4,140.0,5.5,333.325,42.86,0.024,0.058,2.35,0.21,0.474,M,Super Phosphate
+37,R Radhakrishnan,Ramasamy,"648/2,650",Virudhunagar,Chatrareddiyapatti,8.3,0.06,0.48,143.5,8.25,281.25,42.35,0.145,0.055,2.25,6.92,0.464,M,Super Phosphate
+38,R Rajakumari,Radhakrishnan,"655,491/15,523/10A",Virudhunagar,Chatrareddiyapatti,6.9,0.03,0.48,147.0,30.0,725.0,39.8,0.132,0.028,2.78,7.46,0.462,M,Potash
+39,Pandurangan N,Narayana reddy,"648/1b,1a2, 524/4",Virudhunagar,Chatrareddiyapatti,7.6,0.05,0.4,105.0,14.0,322.9,39.2,0.141,0.021,2.25,7.35,0.441,M,Urea
+40,P Shandha,Pandurengan,617,Virudhunagar,Chatrareddiyapatti,7.6,0.1,0.6,140.0,6.5,944.425,38.78,0.108,0.035,2.35,7.21,0.734,M,Super Phosphate
+41,A Narayanamoorthy,Alwar,"649/3,6,4,7",Virudhunagar,Chatrareddiyapatti,7.8,0.1,0.36,140.0,9.75,522.725,39.8,0.114,0.042,2.95,7.11,0.674,M,Potash
+42,N Purushothaman,Narayanasamy,"648/1c,649/1,8,649/5",Virudhunagar,Chatrareddiyapatti,7.9,0.1,0.48,150.5,6.5,468.75,40.31,0.191,0.051,0.2,6.75,0.645,N,Super Phosphate
+43,Balasubramanian,Ganesan,"173/1B,345/4",Virudhunagar,Chatrareddiyapatti,7.9,0.03,0.9,150.5,8.25,223.2,43.37,0.121,0.052,0.21,6.8,0.464,N,Super Phosphate
+44,Janarthanan,Alagarsamy,59/3a,Virudhunagar,Chatrareddiyapatti,7.9,0.03,0.9,115.5,8.25,214.275,43.88,0.122,0.042,5.21,6.55,0.464,N,Super Phosphate
+45,Rajaram,Sankaralingarediar,174/8b,Virudhunagar,Chatrareddiyapatti,7.9,0.1,0.9,126.0,8.75,260.425,44.39,0.119,0.028,5.78,7.21,0.462,N,Super Phosphate
+46,Ramprabhu,Jeyachandran,112/8c,Virudhunagar,Chatrareddiyapatti,8.4,0.1,0.13,136.5,4.25,302.075,37.25,0.23,0.151,1.95,7.12,0.57,N,Super Phosphate
+47,Sriram,Ramachandran,87/2b,Virudhunagar,Chatrareddiyapatti,8.3,0.1,0.11,126.0,3.75,281.25,36.74,0.24,0.149,4.82,8.21,0.63,N,Super Phosphate
+48,Ramasamy,Narayanan,45/1c,Virudhunagar,Chatrareddiyapatti,8.4,0.1,0.16,150.5,3.75,291.675,36.23,0.21,0.147,3.16,9.14,0.56,N,Super Phosphate
+49,Ramalakshmi,Narayanan,66/1d,Virudhunagar,Chatrareddiyapatti,8.3,0.1,0.11,119.0,3.25,302.075,37.25,0.23,0.145,2.62,7.24,0.72,N,Super Phosphate
+50,Subbramani,Murugandi,89/2c,Virudhunagar,Chatrareddiyapatti,8.4,0.1,0.1,108.5,3.75,281.25,36.74,0.35,0.143,1.96,11.32,0.56,N,Super Phosphate
+51,Ramasamy,Sakkanan,75/2n,Virudhunagar,Chatrareddiyapatti,8.4,0.1,0.09,101.5,4.25,302.075,35.72,0.72,0.147,1.24,14.63,0.37,N,Urea
+52,Ramasamy,Ramasamy,68/3b,Virudhunagar,Chatrareddiyapatti,8.4,0.2,0.09,94.5,3.75,291.675,36.23,0.26,0.149,1.83,12.26,0.26,N,Urea
+53,Jeyabalan,gurusamy rediar,58/4c,Virudhunagar,Chatrareddiyapatti,8.4,0.1,0.09,94.5,3.75,302.075,35.21,0.72,0.153,1.74,10.32,0.72,N,Urea
+54,Balamurugan,Pethanan,42/3c,Virudhunagar,Chatrareddiyapatti,8.3,0.2,0.06,70.0,4.25,322.9,35.72,0.61,0.13,2.31,7.64,0.65,N,Urea
+55,Sankarapandi,Veeraputhiran,32/4f,Virudhunagar,Chatrareddiyapatti,8.3,0.1,0.09,91.0,3.75,312.5,29.6,0.54,0.134,1.96,3.69,0.52,N,Urea
+56,Manikandan,Subbaiah,39/7,Virudhunagar,Chatrareddiyapatti,8.4,0.1,0.06,70.0,3.75,333.325,27.56,0.42,0.132,1.26,8.72,0.64,N,Urea
+57,Kannan,Mariyappan,85/2d,Virudhunagar,Chatrareddiyapatti,8.4,0.3,0.09,91.0,4.25,322.9,30.11,0.31,0.138,2.42,9.15,0.74,N,Urea
+58,Manikandan,Mariyappan,76/c,Virudhunagar,Chatrareddiyapatti,8.4,0.1,0.09,101.5,3.25,312.5,28.58,0.41,0.134,2.03,11.26,0.91,N,Urea
+59,Kandasamy,Narayanan,75/2d,Virudhunagar,Chatrareddiyapatti,8.3,0.1,0.09,91.0,3.75,302.075,28.07,0.74,0.138,1.94,10.21,0.36,N,Urea
+60,kannan,chitravel,49/2g,Virudhunagar,Chatrareddiyapatti,8.4,0.1,0.07,87.5,3.75,291.675,27.56,0.65,0.14,2.41,9.32,0.71,N,Urea
+61,Paulraj, -,479/1A,Virudhunagar,Ellinganaickenpatti,7.2,0.2,0.76,108.5,64.5,888.875,44.9,0.1,0.021,0.3,1.7,0.1,N,Potash
+62,Vasandha, -,380,Virudhunagar,Ellinganaickenpatti,7.0,0.1,0.88,108.5,83.0,986.1,46.43,0.3,0.014,0.5,0.7,0.03,N,Potash
+63,Rathinam, -,407,Virudhunagar,Ellinganaickenpatti,6.4,0.2,0.52,147.0,100.0,1175.0,45.92,0.2,0.09,0.2,0.9,0.4,N,Potash
+64,Thavamani, -,278/1B,Virudhunagar,Ellinganaickenpatti,7.3,0.1,0.48,147.0,10.75,214.275,46.43,0.8,0.021,0.7,1.4,0.7,N,Potash
+65,Lakshmi,Nagasamy,286/5,Virudhunagar,Ellinganaickenpatti,7.6,0.2,0.6,136.5,30.75,395.825,50.0,1.0,0.028,1.0,1.7,1.0,N,Potash
+66,Rajammal,Mariyappan,492,Virudhunagar,Ellinganaickenpatti,6.8,0.2,0.6,147.0,31.75,1162.5,50.0,0.03,0.021,0.5,0.5,0.8,N,Potash
+67,Lakshmanan,Narayanasamy,352,Virudhunagar,Ellinganaickenpatti,8.3,0.3,0.48,150.5,32.5,875.0,50.0,0.01,0.041,0.3,1.3,1.1,N,Potash
+68,Veerachinnu, -,394/1A1,Virudhunagar,Ellinganaickenpatti,7.8,0.2,0.56,147.0,33.25,637.5,50.0,0.05,0.028,0.6,0.9,0.6,N,Potash
+69,Ramamoorthy,Sangaiya,156/1A,Virudhunagar,Ellinganaickenpatti,7.5,0.1,0.4,119.0,13.25,395.825,49.49,0.1,0.035,0.2,1.2,1.1,N,Potash
+70,Subbhaiyan,Vellaiyan,584/3,Virudhunagar,Ellinganaickenpatti,6.9,0.1,0.6,50.0,29.25,875.0,50.0,0.04,0.042,0.7,0.4,0.7,N,Urea
+71,Parvathy, -,468/3A,Virudhunagar,Ellinganaickenpatti,7.6,0.1,0.64,140.0,47.5,637.5,50.0,0.02,0.051,0.1,1.3,1.1,N,Potash
+72,Kandhasamy, -,563/2C,Virudhunagar,Ellinganaickenpatti,7.8,0.1,0.56,91.0,8.75,427.075,50.0,0.05,0.052,0.4,0.9,0.5,N,Urea
+73,Boopathy, -,286/5,Virudhunagar,Ellinganaickenpatti,6.4,0.2,0.68,147.0,100.0,1175.0,50.0,0.03,0.05,0.2,1.2,1.1,N,Potash
+74,Azhagarsamy, -,128/1,Virudhunagar,Ellinganaickenpatti,6.4,0.2,0.72,147.0,100.0,1175.0,50.0,0.1,0.021,0.2,0.5,0.9,N,Potash
+75,Pothi, -,293/1C,Virudhunagar,Ellinganaickenpatti,5.9,0.4,0.9,147.0,100.0,1053.55,50.0,0.3,0.035,0.3,1.3,1.1,N,Potash
+76,Ramasamy, -,378/2B,Virudhunagar,Ellinganaickenpatti,7.3,0.3,0.6,94.5,19.0,437.5,50.0,0.2,0.021,0.3,0.6,1.1,N,Urea
+77,Backiyam,Kandhasamy,188/6,Virudhunagar,Ellinganaickenpatti,7.4,0.2,0.56,91.0,14.0,590.9,50.0,0.8,0.014,0.5,1.4,0.9,N,Urea
+78,Subbuthai, -,555/3A,Virudhunagar,Ellinganaickenpatti,7.6,0.3,0.76,129.5,10.75,479.15,50.0,0.1,0.021,0.2,0.9,1.1,N,Potash
+79,Ramasamy,Kandhasamy,317/1A1,Virudhunagar,Ellinganaickenpatti,7.7,0.2,0.6,105.0,17.0,437.5,50.0,0.4,0.035,0.3,1.7,1.1,N,Urea
+80,Ramaraj, -,200/4C,Virudhunagar,Ellinganaickenpatti,7.7,0.2,0.4,94.5,37.5,579.525,50.0,0.1,0.028,0.5,0.7,0.3,N,Urea
+81,Muniyappan,Karuppasamy,"432/1A,1B",Virudhunagar,Ellinganaickenpatti,7.3,0.1,0.6,147.0,100.0,1175.0,50.0,0.7,0.042,0.7,0.3,0.5,N,Potash
+82,Gopalsamy, -,523/11,Virudhunagar,Ellinganaickenpatti,8.0,0.1,0.56,115.5,7.0,579.525,50.0,0.02,0.05,0.2,0.5,0.2,N,Super Phosphate
+83,Karmegam, -,310/1B,Virudhunagar,Ellinganaickenpatti,7.0,0.2,0.72,91.0,76.25,1053.55,50.0,0.05,0.051,0.1,0.2,0.9,N,Urea
+84,Konammal, -,394/1A,Virudhunagar,Ellinganaickenpatti,7.5,0.2,0.6,98.0,14.0,354.15,34.7,0.3,0.052,0.9,0.9,0.1,N,Urea
+85,Muthammal, -,363/1,Virudhunagar,Ellinganaickenpatti,7.9,0.5,0.68,73.5,8.75,602.25,35.21,0.34,0.042,0.4,1.3,0.03,N,Urea
+86,Ramasamy, -,375/1,Virudhunagar,Ellinganaickenpatti,7.7,0.2,0.35,147.0,8.0,196.425,1.22,0.1,0.014,1.8,5.1,1.1,N,Super Phosphate
+87,Kaliyammal, -,350,Virudhunagar,Ellinganaickenpatti,7.8,0.2,0.9,147.0,1.75,662.5,12.81,1.0,0.055,5.9,10.3,1.1,N,Super Phosphate
+88,Mariyammal,Karuppaiya,"560/2,3",Virudhunagar,Ellinganaickenpatti,7.9,0.2,0.35,147.0,2.25,637.5,10.98,1.0,0.051,4.6,9.7,1.1,N,Super Phosphate
+89,Vairavasamy, -,405/1A,Virudhunagar,Ellinganaickenpatti,7.8,0.2,0.4,150.5,2.75,625.0,9.76,1.0,0.052,4.4,7.8,1.1,N,Super Phosphate
+90,Muneeswaran, -,284/3B,Virudhunagar,Ellinganaickenpatti,7.8,0.2,0.4,150.5,3.75,590.9,9.76,1.0,0.05,4.6,8.4,1.1,N,Super Phosphate
+91,Latchathiraviyam,Sundharaj,219,Virudhunagar,Ellinganaickenpatti,7.9,0.2,0.35,150.5,5.0,468.75,8.54,1.0,0.054,4.7,8.6,1.1,N,Super Phosphate
+92,Dhanammal, -,216/3,Virudhunagar,Ellinganaickenpatti,7.6,2.4,0.9,147.0,3.25,196.425,12.2,1.0,0.05,1.8,10.2,1.1,M,Super Phosphate
+93,Muthuraj, -,491/2,Virudhunagar,Ellinganaickenpatti,8.2,0.7,0.9,147.0,4.25,662.5,11.59,1.0,0.052,5.9,9.8,1.1,M,Super Phosphate
+94,Rajendhiren, -,364/2A,Virudhunagar,Ellinganaickenpatti,7.9,0.4,0.9,147.0,4.25,590.9,9.15,1.0,0.042,4.6,9.7,1.1,M,Super Phosphate
+95,Karuppasamy,Muthukumar,286/1,Virudhunagar,Ellinganaickenpatti,7.8,0.8,0.9,147.0,4.25,579.525,8.54,1.0,0.042,4.8,9.6,1.1,M,Super Phosphate
+96,Seenivasan,Muthukumar,286/2,Virudhunagar,Ellinganaickenpatti,7.9,0.4,0.9,147.0,3.75,568.175,9.76,1.0,0.05,4.7,10.1,1.1,N,Super Phosphate
+97,Muthukani,Chinnasamy,183/2,Virudhunagar,Ellinganaickenpatti,7.9,0.3,0.9,147.0,3.75,545.45,10.37,1.0,0.052,4.5,8.9,1.1,N,Super Phosphate
+98,Lakshmi,Subbhareddiyar,200/1,Virudhunagar,Ellinganaickenpatti,8.0,0.2,0.9,147.0,5.0,534.075,12.81,1.0,0.051,4.3,8.6,1.1,N,Super Phosphate
+99,Sangaiya,Gopalanaicker,377/3,Virudhunagar,Ellinganaickenpatti,7.9,0.3,0.29,147.0,4.25,500.0,13.42,1.0,0.051,4.2,7.4,1.1,P,Super Phosphate
+100,Karuppasamy, -,461/2B,Virudhunagar,Ellinganaickenpatti,7.5,0.8,0.4,150.5,3.25,556.8,10.37,1.0,0.05,3.9,8.1,1.1,P,Super Phosphate
+101,Krishnamoorthy,Vellaisamy,163/2B,Virudhunagar,Ellinganaickenpatti,7.6,1.0,0.58,147.0,3.75,675.0,11.59,1.0,0.05,4.9,7.9,1.1,P,Super Phosphate
+102,Paulpandi,Karmegam,347/9,Virudhunagar,Ellinganaickenpatti,8.0,0.5,0.9,147.0,3.75,637.5,10.98,1.0,0.052,4.6,10.1,1.1,P,Super Phosphate
+103,Jeyaram, -,476/2,Virudhunagar,Ellinganaickenpatti,8.0,0.4,0.9,147.0,4.25,625.0,12.81,1.0,0.051,4.7,11.1,1.1,P,Super Phosphate
+104,Murugan, -,391/1B,Virudhunagar,Ellinganaickenpatti,7.7,1.5,0.9,147.0,4.25,613.625,12.81,1.0,0.05,4.3,10.3,1.1,P,Super Phosphate
+105,Pandiyammal, -,252/1B,Virudhunagar,Ellinganaickenpatti,8.1,0.7,0.9,147.0,5.0,579.525,12.81,1.0,0.042,3.8,9.8,1.1,P,Super Phosphate
+106,Ramamoorthy,Veluchamy,472/1,Virudhunagar,Ellinganaickenpatti,8.0,0.2,0.9,147.0,2.25,511.35,11.59,1.0,0.035,3.7,7.9,1.1,P,Super Phosphate
+107,chokkappan, -,293/3,Virudhunagar,Ellinganaickenpatti,7.7,2.3,0.9,147.0,2.25,550.0,9.15,1.0,0.028,3.9,8.9,1.1,P,Super Phosphate
+108,Kumar,Pabhuraj,463/4B,Virudhunagar,Ellinganaickenpatti,8.3,0.9,0.9,28.0,2.75,479.15,5.49,1.0,0.042,3.6,9.2,1.1,P,Urea
+109,Indhurani, -,472/3A,Virudhunagar,Ellinganaickenpatti,8.1,0.5,0.9,147.0,2.75,458.325,6.71,0.9,0.021,3.7,9.3,1.1,P,Super Phosphate
+110,Sarkaraisamy, -,280,Virudhunagar,Ellinganaickenpatti,8.1,0.5,0.9,147.0,2.75,447.9,7.93,1.0,0.007,3.8,9.7,1.1,P,Super Phosphate
+111,Seethalakshmi, -,240/2B,Virudhunagar,Ellinganaickenpatti,8.0,0.3,0.9,147.0,1.75,468.75,9.15,1.1,0.014,3.9,9.6,1.1,P,Super Phosphate
+112,Murugesan, -,436/2B,Virudhunagar,Ellinganaickenpatti,8.0,0.3,0.9,147.0,1.75,479.15,10.98,0.7,0.05,4.8,9.7,1.1,P,Super Phosphate
+113,Ponnuthai, -,377/3,Virudhunagar,Ellinganaickenpatti,7.9,0.3,0.9,147.0,8.0,590.9,12.81,0.8,0.052,5.7,9.4,1.1,P,Super Phosphate
+114,Sundhararaj, -,560/5,Virudhunagar,Ellinganaickenpatti,8.1,0.3,0.9,147.0,8.0,637.5,10.37,0.6,0.042,5.6,8.2,1.1,P,Super Phosphate
+115,Kannaiah,Sankili,563/1,Virudhunagar,Ellinganaickenpatti,7.9,0.4,0.9,147.0,8.0,650.0,11.59,0.5,0.051,5.9,11.2,1.1,P,Super Phosphate
+116,Sakkammal, -,471/1,Virudhunagar,Ellinganaickenpatti,7.8,0.4,0.9,147.0,4.25,650.0,12.81,0.4,0.035,5.8,8.7,1.1,P,Super Phosphate
+117,Avudaiyammal, -,259/3,Virudhunagar,Ellinganaickenpatti,7.9,0.4,0.9,147.0,5.0,637.5,14.64,0.7,0.021,5.6,8.9,1.1,P,Super Phosphate
+118,Mahalakshmi, -,187/5,Virudhunagar,Ellinganaickenpatti,8.0,0.4,0.9,147.0,3.25,625.0,12.81,0.8,0.028,5.7,8.7,1.1,P,Super Phosphate
+119,Shanmugam,Aandi,259/8,Virudhunagar,Ellinganaickenpatti,8.1,0.4,0.9,147.0,3.75,613.625,12.81,0.6,0.035,5.8,8.6,1.1,P,Super Phosphate
+120,Sangaiya, -,394/1A,Virudhunagar,Ellinganaickenpatti,8.0,0.3,0.9,147.0,3.75,662.5,14.64,0.7,0.028,5.9,8.7,1.1,P,Super Phosphate
+121,Velammal,Marichamy,219,Virudhunagar,Ellinganaickenpatti,7.9,0.3,0.9,147.0,5.0,650.0,15.25,0.8,0.021,5.7,8.8,1.1,P,Super Phosphate
+122,Guruvammal, -,216/8,Virudhunagar,Ellinganaickenpatti,7.6,2.6,0.9,147.0,3.25,579.525,5.43,0.9,0.051,5.4,8.9,1.1,P,Super Phosphate
+123,Malaichamy, -,203/1A,Virudhunagar,Ellinganaickenpatti,8.1,1.3,0.9,147.0,3.75,650.0,6.71,1.0,0.052,5.6,11.1,1.1,P,Super Phosphate
+124,Konammal, -,205/10,Virudhunagar,Ellinganaickenpatti,7.7,1.8,0.9,147.0,3.25,662.5,12.81,1.1,0.051,5.7,10.3,1.1,P,Super Phosphate
+125,Govindharaj, -,432/1B,Virudhunagar,Ellinganaickenpatti,7.8,1.5,0.9,147.0,3.75,613.625,12.2,1.0,0.05,5.8,9.8,1.1,P,Super Phosphate
+126,Dhanajeyan,Perumal,310/1C,Virudhunagar,Ellinganaickenpatti,8.0,0.2,0.9,147.0,4.25,625.0,12.81,0.3,0.042,5.2,9.7,1.1,P,Super Phosphate
+127,Karthigairajan, -,312,Virudhunagar,Ellinganaickenpatti,7.9,0.3,0.9,147.0,4.25,662.5,13.42,0.5,0.028,5.2,8.8,1.1,P,Super Phosphate
+128,Renganayagi, -,220/1,Virudhunagar,Ellinganaickenpatti,8.0,0.3,0.9,147.0,5.0,796.875,12.81,0.6,0.035,5.4,7.9,1.1,P,Super Phosphate
+129,Mariyappan,Nankayasamy,475/2,Virudhunagar,Ellinganaickenpatti,8.0,0.3,0.9,147.0,3.75,750.0,11.59,0.7,0.042,4.7,11.1,1.1,P,Super Phosphate
+130,Manijothi,Mariyappan,364/2A3,Virudhunagar,Ellinganaickenpatti,8.0,0.2,0.9,147.0,3.25,737.5,12.2,0.8,0.051,4.6,10.8,1.1,P,Super Phosphate
+131,Murugan, -,284/3F,Virudhunagar,Ellinganaickenpatti,7.9,0.3,0.9,147.0,3.75,650.0,12.81,0.9,0.05,4.7,10.4,1.1,P,Super Phosphate
+132,Rajnaicker, -,284/3G,Virudhunagar,Ellinganaickenpatti,7.8,0.8,0.9,147.0,4.25,625.0,11.59,0.8,0.052,4.8,9.8,1.1,P,Super Phosphate
+133,Subburaj,Palani,200/40,Virudhunagar,Ellinganaickenpatti,8.0,0.5,0.9,147.0,3.75,613.625,10.37,0.7,0.052,4.9,7.9,1.1,P,Super Phosphate
+134,Gurusamy,Ganapathi,293/4,Virudhunagar,Ellinganaickenpatti,7.5,1.0,0.9,147.0,5.0,637.5,10.98,0.6,0.054,5.4,8.9,1.1,P,Super Phosphate
+135,Sarojadevi, -,577/1B,Virudhunagar,Ellinganaickenpatti,8.0,0.6,0.9,147.0,5.0,650.0,12.2,0.7,0.056,5.2,7.9,1.1,P,Super Phosphate
+136,Thangapandi,Paulraj,182/35,Virudhunagar,Golwarpatti,8.1,0.2,0.16,150.5,10.25,534.075,50.0,0.1,0.177,3.1,6.6,0.8,N,Potash
+137,Chandiraraj,Subramaniyan,143/2,Virudhunagar,Golwarpatti,7.9,0.4,0.19,150.5,10.75,534.075,50.0,0.2,0.179,5.8,13.1,0.7,N,Potash
+138,Jeyapandiyan,Paulraj,142/19B,Virudhunagar,Golwarpatti,8.2,0.2,0.19,150.5,11.5,545.45,50.0,0.2,0.177,4.7,12.4,1.0,N,Potash
+139,Antonyraj,Iruthayaraj,127/14,Virudhunagar,Golwarpatti,8.2,0.2,0.13,136.5,10.25,545.45,50.0,0.1,0.185,4.6,7.2,0.9,N,Potash
+140,Rajagopal,Ananthappan,125/13,Virudhunagar,Golwarpatti,8.0,0.3,0.14,147.0,10.75,534.075,50.0,0.2,0.187,3.8,9.8,1.1,N,Potash
+141,Karuppasamy,Karupaiya,124/2,Virudhunagar,Golwarpatti,8.2,0.2,0.16,150.5,11.5,522.725,50.0,0.2,0.172,5.8,10.2,1.1,N,Potash
+142,Murugeshwari,Lakshmanaperumal,194/3,Virudhunagar,Golwarpatti,8.3,0.2,0.13,136.5,10.25,534.075,50.0,0.1,0.174,5.2,11.2,0.8,N,Potash
+143,Muthammal,Shanmugam,193/8,Virudhunagar,Golwarpatti,7.8,0.2,0.13,143.5,11.5,545.45,50.0,0.1,0.175,4.8,11.8,0.9,N,Potash
+144,Susaiyappan,Chinnaanthoni,183/4,Virudhunagar,Golwarpatti,7.9,0.4,0.13,143.5,10.75,522.725,50.0,0.2,0.172,4.4,8.4,1.1,N,Potash
+145,Gurusamy,Muniyandi,130/6,Virudhunagar,Golwarpatti,8.0,0.2,0.13,143.5,11.5,534.075,50.0,0.2,0.174,3.6,7.8,1.1,N,Potash
+146,Ramakrishnan,Subbhaiyasamy,132/9,Virudhunagar,Golwarpatti,8.0,0.3,0.13,143.5,11.5,545.45,50.0,0.1,0.177,6.0,7.6,0.9,N,Potash
+147,kandasamy,Veerachamy,638,Virudhunagar,Gurumoorthynayakkanpatti,8.3,0.2,0.48,94.5,8.25,534.075,34.7,0.2,0.058,1.4,2.9,0.4,M,Urea
+148,Pandi,Karuppaiah,629,Virudhunagar,Gurumoorthynayakkanpatti,8.2,0.2,0.56,80.5,8.25,1017.85,35.21,0.7,0.056,3.1,3.8,0.7,M,Urea
+149,Chellathai,Subburaj,589,Virudhunagar,Gurumoorthynayakkanpatti,8.1,0.2,0.4,101.5,7.5,1089.275,34.7,0.7,0.058,0.9,4.1,0.2,M,Urea
+150,Rajeshwari,kandasamy,560,Virudhunagar,Gurumoorthynayakkanpatti,8.2,0.2,0.36,105.0,8.25,534.075,34.19,0.3,0.059,1.5,3.5,0.4,M,Urea
+151,Panchavaranam,Rajakani,813,Virudhunagar,Gurumoorthynayakkanpatti,8.1,0.3,0.56,91.0,8.25,1107.125,35.21,0.8,0.055,1.1,2.7,0.8,M,Urea
+152,Kavitha,Anandakumar,625,Virudhunagar,Gurumoorthynayakkanpatti,8.1,0.2,0.52,98.0,8.25,1000.0,39.8,0.5,0.056,0.9,4.0,0.8,M,Urea
+153,Kanthiyammal,Ganapathi,835,Virudhunagar,Gurumoorthynayakkanpatti,8.9,0.3,0.56,105.0,10.25,178.575,34.19,0.2,0.035,1.5,3.4,0.5,P,Urea
+154,Pathirakaliyammal,Tharmalingam,846,Virudhunagar,Gurumoorthynayakkanpatti,8.1,0.4,0.72,101.5,10.25,944.425,34.7,0.1,0.05,0.3,3.7,0.4,N,Urea
+155,Sundarammal,Mathiya,762,Virudhunagar,Gurumoorthynayakkanpatti,8.2,0.2,0.9,112.0,10.75,875.0,36.23,0.4,0.05,1.9,2.5,0.7,N,Potash
+156,Mahalakshmi,Koodishwaran,603,Virudhunagar,Gurumoorthynayakkanpatti,8.2,0.2,0.24,91.0,12.0,1250.0,35.21,0.8,0.042,0.5,3.2,0.4,N,Urea
+157,Rajeshwari,Krishnasamy,502,Virudhunagar,Gurumoorthynayakkanpatti,8.1,0.3,0.48,98.0,12.5,1107.125,35.72,0.2,0.042,0.7,4.4,0.4,N,Urea
+158,Vijayalakshmi,muniswaran,572,Virudhunagar,Gurumoorthynayakkanpatti,8.2,0.2,0.52,87.5,10.75,602.25,36.23,0.2,0.035,2.1,3.9,0.7,N,Urea
+159,Perumal,Poochan,226/7,Virudhunagar,Mannarkottai,7.9,0.3,0.16,87.5,8.0,48.075,1.83,0.01,0.042,1.05,4.6,0.63,P,Urea
+160,Backiyalakshmi,Namakodi,225/2,Virudhunagar,Mannarkottai,7.9,0.3,0.22,119.0,3.75,115.375,9.15,0.03,0.101,1.45,6.9,0.86,P,Super Phosphate
+161,Jeyalakshmi,Ramasamy,181/4,Virudhunagar,Mannarkottai,7.9,0.2,0.16,91.0,3.25,76.925,7.32,0.02,0.093,1.34,5.6,0.72,P,Urea
+162,Saraswathy,Balakrishnan,172/8,Virudhunagar,Mannarkottai,7.9,0.3,0.16,94.5,3.75,86.525,6.1,0.02,0.084,1.42,6.4,0.7,P,Urea
+163,Kalimuthu,Muthumurugan,125/11,Virudhunagar,Mannarkottai,7.9,0.3,0.16,87.5,4.25,67.3,8.54,0.02,0.083,1.09,6.2,0.71,P,Urea
+164,Avudaithai,Marisamy,127/6,Virudhunagar,Mannarkottai,7.9,0.3,0.22,112.0,3.25,96.15,6.71,0.03,0.079,1.11,4.8,0.88,P,Super Phosphate
+165,Jeyapal,Marisamy,123/14,Virudhunagar,Mannarkottai,8.0,0.3,0.22,105.0,2.75,76.925,3.66,0.03,0.098,1.1,5.2,0.82,P,Urea
+166,Perumal,Ramasamy,112/3,Virudhunagar,Mannarkottai,8.0,0.3,0.16,91.0,8.0,48.075,1.83,0.03,0.042,1.05,4.6,0.63,P,Urea
+167,Malliga,Jeyapaul,117/4A,Virudhunagar,Mannarkottai,8.0,0.2,0.22,112.0,4.25,115.375,9.15,0.03,0.101,1.45,6.9,0.86,P,Super Phosphate
+168,Veluchamy,Ramasamy,148/4,Virudhunagar,Mannarkottai,8.1,0.2,0.16,94.5,3.25,76.925,7.93,0.03,0.09,1.39,5.6,0.72,P,Urea
+169,Agila,Rajeshkumar,153/2A,Virudhunagar,Mannarkottai,7.8,0.2,0.16,94.5,2.75,67.3,6.71,0.02,0.094,1.36,5.8,0.71,P,Urea
+170,Kengammal,Mahalingam,155/1B2,Virudhunagar,Mannarkottai,7.9,0.3,0.16,101.5,3.25,57.7,4.88,0.01,0.095,1.37,6.4,0.68,P,Urea
+171,Arasu,Subramaniyan,169/3,Virudhunagar,Mannarkottai,7.9,0.3,0.22,101.5,3.75,67.3,4.27,0.01,0.098,1.35,6.5,0.69,P,Urea
+172,Kasi,Subramaniyan,166/10,Virudhunagar,Mannarkottai,8.0,0.2,0.16,101.5,4.25,86.525,5.49,0.02,0.1,1.29,6.6,0.71,P,Urea
+173,Veeralakshmi,Neerathilingam,193/5,Virudhunagar,Mannarkottai,8.0,0.2,0.22,108.5,3.75,96.15,7.93,0.02,0.098,1.27,4.8,0.82,P,Super Phosphate
+174,Thamma,Chinnaramasamy,195/2A,Virudhunagar,Mannarkottai,8.0,0.2,0.22,112.0,3.25,105.775,7.32,0.01,0.094,1.41,6.0,0.84,P,Super Phosphate
+175,Selvakumar,Sudalaikannu,216/4,Virudhunagar,Mannarkottai,8.0,0.3,0.22,112.0,3.25,86.525,8.54,0.02,0.09,1.44,5.0,0.83,P,Super Phosphate
+176,Velusamy,Ramasamy,222/3,Virudhunagar,Mannarkottai,8.0,0.3,0.22,115.5,2.75,76.925,6.71,0.03,0.093,1.39,5.2,0.85,P,Super Phosphate
+177,Kandhasamy,Pandiyan,211/2A,Virudhunagar,Mannarkottai,8.1,0.3,0.16,101.5,3.75,96.15,4.27,0.03,0.091,1.35,5.8,0.79,P,Urea
+178,Sadhuragiri,Chinnasamy,204/1,Virudhunagar,Mannarkottai,8.0,0.3,0.16,94.5,4.25,105.775,5.49,0.02,0.093,1.38,5.4,0.78,P,Urea
+179,Paulpandi,Kandhasamy,170/1,Virudhunagar,Mannarkottai,8.0,0.3,0.16,94.5,3.25,115.375,3.66,0.01,0.9,1.41,5.2,0.74,P,Urea
+180,Thavasimuthu,Paramaguru,338/4,Virudhunagar,Nakkalkottai,7.9,0.4,0.17,84.0,8.75,96.15,7.32,0.82,0.1,2.36,1.8,0.26,M,Urea
+181,Nagaraj,Ramar,19/2-,Virudhunagar,Nakkalkottai,7.9,0.3,0.17,91.0,22.75,115.375,4.27,0.43,0.073,1.72,2.82,1.1,M,Urea
+182,Periyapoochian,Poochinayakar,110/2A,Virudhunagar,Nakkalkottai,7.9,0.3,0.11,56.0,8.25,151.775,8.54,1.0,0.091,1.43,2.45,1.1,M,Urea
+183,Jeyaram,Muthaiya,158/6,Virudhunagar,Nakkalkottai,7.9,0.3,0.17,84.0,16.25,196.425,16.47,1.03,0.14,2.63,3.86,1.1,M,Urea
+184,Perumalsamy,Mookandi,316/4,Virudhunagar,Nakkalkottai,7.9,0.3,0.28,133.0,26.75,142.85,11.59,0.82,0.101,2.24,1.67,1.1,M,Potash
+185,Avadaiyammal,Ramakrishnan,300/3B,Virudhunagar,Nakkalkottai,7.9,0.3,0.17,94.5,5.0,115.375,14.64,0.64,0.097,1.86,2.53,1.1,M,Urea
+186,Subburaj,Alagarsamy,291/1A,Virudhunagar,Nakkalkottai,7.8,0.3,0.11,56.0,9.75,86.525,2.44,0.78,0.094,1.14,3.14,0.86,M,Urea
+187,Perumaldevar,Veldevar,320/5B,Virudhunagar,Nakkalkottai,7.8,0.3,0.06,49.0,28.25,241.075,7.32,1.0,0.084,1.26,3.32,1.1,M,Urea
+188,Dhanasekar,Ramasamy,79/4,Virudhunagar,Nakkalkottai,7.8,0.3,0.17,84.0,11.5,133.925,17.69,0.72,0.1,1.24,1.82,1.06,M,Urea
+189,Muniyandi,Subbiah,112/1B,Virudhunagar,Nakkalkottai,7.9,0.3,0.17,101.5,9.25,115.375,21.96,0.39,0.117,2.72,1.45,1.1,M,Urea
+190,Narayanan,Venkadappan,278/10,Virudhunagar,Nakkalkottai,7.9,0.3,0.11,56.0,15.5,160.7,4.27,0.45,0.084,1.14,2.72,0.26,M,Urea
+191,Annakkili,Pochinayakkar,126/3,Virudhunagar,Nakkalkottai,7.9,0.3,0.11,59.5,19.75,223.2,3.05,0.42,0.117,2.72,2.34,0.74,M,Urea
+192,Ramakrishnan,Krishnasamy,353/2B2,Virudhunagar,Nakkalkottai,7.9,0.3,0.23,112.0,16.25,302.075,7.32,0.39,0.09,2.34,1.94,0.34,M,Potash
+193,Veeramallaiya,Alagarsamy,112/1C,Virudhunagar,Nakkalkottai,7.9,0.3,0.17,84.0,26.75,169.65,8.54,0.82,0.098,2.45,1.57,0.52,M,Urea
+194,Adhilakshmi,Maran,299/2,Virudhunagar,Nakkalkottai,7.9,0.3,0.17,77.0,34.25,160.7,1.22,0.4,0.091,2.54,1.43,0.56,M,Urea
+195,Alagarsamy,Mukkandi,130/17,Virudhunagar,Nakkalkottai,7.9,0.3,0.11,70.0,26.75,115.375,8.54,0.51,0.109,2.62,1.86,0.46,M,Urea
+196,Subbulakshmi,Vazhivittandevar,275/3A,Virudhunagar,Nakkalkottai,8.0,0.3,0.17,84.0,28.25,96.15,14.64,0.52,0.086,2.72,2.84,0.72,M,Urea
+197,Muthumariselvam,Jayaraj,392/4A2,Virudhunagar,Nakkalkottai,8.1,0.3,0.17,84.0,12.0,76.925,10.37,0.48,0.109,1.24,1.72,0.68,M,Urea
+198,Gurupathan,Gurusamy,268/10,Virudhunagar,Nakkalkottai,7.9,0.3,0.23,112.0,15.5,86.525,9.15,0.54,0.084,1.36,2.24,0.58,M,Potash
+199,Marikannan,Rajendran,4/4A,Virudhunagar,Nakkalkottai,7.9,0.3,0.11,66.5,22.0,67.3,8.54,0.68,0.109,1.48,2.52,0.56,M,Urea
+200,Muthunai,Srinivasan,401/1B,Virudhunagar,Nakkalkottai,7.9,0.3,0.17,77.0,26.75,115.375,1.22,0.72,0.117,1.54,1.72,0.43,M,Urea
+201,Ramachandran,Ramasamy,414/14,Virudhunagar,Nakkalkottai,7.9,0.3,0.17,84.0,24.25,57.7,40.82,0.84,0.084,2.36,1.15,0.48,M,Urea
+202,Saroja,Ramasamy,318/4A,Virudhunagar,Nakkalkottai,7.9,0.3,0.11,59.5,31.75,160.7,8.54,0.28,0.098,2.74,2.43,0.52,M,Urea
+203,Nagarathinam,Paramasivam,122/1,Virudhunagar,Nakkalkottai,7.9,0.3,0.23,112.0,28.25,133.925,10.37,0.34,0.084,2.68,1.78,0.58,M,Potash
+204,Rajaram,Aandimuthu,392/4B1,Virudhunagar,Nakkalkottai,7.9,0.3,0.06,49.0,19.0,302.075,3.66,0.48,0.098,2.42,2.64,0.68,M,Urea
+205,Gurusamy,Vazhivittadevar,123/1,Virudhunagar,Nakkalkottai,7.9,0.3,0.17,84.0,30.75,115.375,8.54,0.54,0.073,2.36,2.14,0.64,M,Urea
+206,Ramasamy,Vengadasamy,315/9,Virudhunagar,Nakkalkottai,7.9,0.2,0.11,70.0,29.25,105.775,15.86,0.64,0.077,2.18,2.52,0.7,M,Urea
+207,Paramasivam,Velunaicker,219/7C,Virudhunagar,Nakkalkottai,7.9,0.2,0.28,133.0,22.0,223.2,16.47,0.32,0.1,2.26,2.26,0.68,M,Potash
+208,Ramamoorthy,Vengatachalam,127/10,Virudhunagar,Nakkalkottai,7.7,0.2,0.17,101.5,25.75,205.35,14.64,0.41,0.076,2.34,1.63,0.62,M,Urea
+209,Anandharaj,Ayyanar,31/7-,Virudhunagar,Nakkalkottai,7.8,0.3,0.23,112.0,35.75,105.775,8.54,0.42,0.155,2.36,2.72,0.6,M,Potash
+210,Muththal,Muppidi,126/4,Virudhunagar,Nakkalkottai,7.8,0.3,0.23,112.0,25.75,115.375,14.64,0.43,0.109,2.48,1.93,0.56,M,Potash
+211,Srinivasan,Vellaisamy,316/8,Virudhunagar,Nakkalkottai,7.8,0.3,0.17,91.0,16.25,160.7,13.42,0.68,0.155,2.54,1.64,0.52,M,Urea
+212,Saravanan,Subbaiyadevar,146/5,Virudhunagar,Nakkalkottai,7.8,0.3,0.17,84.0,11.5,241.075,10.37,0.71,0.059,2.68,1.78,0.54,M,Urea
+213,Gunasekaran,Marimuthu,282/2,Virudhunagar,Nakkalkottai,7.8,0.3,0.17,91.0,20.5,105.775,7.32,0.39,0.063,2.7,2.34,0.52,M,Urea
+214,Selvalakshmi,Krishnan,157/7B,Virudhunagar,Nakkalkottai,7.9,0.3,0.17,84.0,18.5,160.7,50.0,0.42,0.073,2.69,3.14,0.53,M,Urea
+215,Seenivasan,Vengatasamy,1262,Virudhunagar,O.Kovilpatti,8.4,0.1,0.13,136.5,4.25,302.075,37.25,0.14,0.151,0.76,0.7,0.08,N,Super Phosphate
+216,Vengatesh,Seenivasan,1263,Virudhunagar,O.Kovilpatti,8.3,0.1,0.11,126.0,3.75,281.25,36.74,0.16,0.149,0.84,0.72,0.06,N,Super Phosphate
+217,Muthammal,Kumaresan,1031/1,Virudhunagar,O.Kovilpatti,8.4,0.1,0.16,150.5,3.75,291.675,36.23,0.18,0.147,0.82,0.7,0.1,N,Super Phosphate
+218,Muniyandi,Veeraiya,1103/1,Virudhunagar,O.Kovilpatti,8.3,0.1,0.11,119.0,3.25,302.075,37.25,0.08,0.145,0.9,0.68,0.1,N,Super Phosphate
+219,Paulraj,Kalikonar,1301,Virudhunagar,O.Kovilpatti,8.4,0.1,0.1,108.5,3.75,281.25,36.74,0.02,0.143,0.46,0.54,0.2,N,Super Phosphate
+220,R.Nagarajan,Rengaraj,1306/1A,Virudhunagar,O.Kovilpatti,8.4,0.1,0.09,101.5,4.25,302.075,35.72,0.07,0.147,0.64,0.26,0.2,N,Urea
+221,Ponnu@Govindhan, -,1010/1,Virudhunagar,O.Kovilpatti,8.4,0.2,0.09,94.5,3.75,291.675,36.23,0.02,0.149,0.62,0.28,0.06,N,Urea
+222,Govindharaman,Krishnasamy,702/2B,Virudhunagar,O.Kovilpatti,8.4,0.1,0.09,94.5,3.75,302.075,35.21,0.12,0.153,0.52,0.24,0.08,N,Urea
+223,Palanichamy,Perumal,678/3,Virudhunagar,O.Kovilpatti,8.3,0.2,0.06,70.0,4.25,322.9,35.72,0.14,0.13,0.72,0.22,0.2,N,Urea
+224,Balasubramani,Subhareddiyar,706/3,Virudhunagar,O.Kovilpatti,8.3,0.1,0.09,91.0,3.75,312.5,29.6,0.12,0.134,0.76,0.26,0.2,N,Urea
+225,Ayyanar,Narayanan,1589/1,Virudhunagar,O.Kovilpatti,8.4,0.1,0.06,70.0,3.75,333.325,27.56,0.08,0.132,0.68,0.54,0.2,N,Urea
+226,Arunachalam,Mariyappan,1321/8E,Virudhunagar,O.Kovilpatti,8.4,0.3,0.09,91.0,4.25,322.9,30.11,0.6,0.138,0.52,2.04,0.06,N,Urea
+227,Muthammal,Perumalsamy,1451/1,Virudhunagar,O.Kovilpatti,8.4,0.1,0.09,101.5,3.25,312.5,28.58,0.04,0.134,1.04,2.04,0.1,N,Urea
+228,Pandi,Velladurai,1514,Virudhunagar,O.Kovilpatti,8.3,0.1,0.09,91.0,3.75,302.075,28.07,0.022,0.138,1.09,2.06,0.2,N,Urea
+229,Solaisamy,Perumalsamy,1104,Virudhunagar,O.Kovilpatti,8.4,0.1,0.07,87.5,3.75,291.675,27.56,0.06,0.14,1.0,0.58,0.08,N,Urea
+230,Parvonraja,Mosas,943,Virudhunagar,O.Kovilpatti,8.4,0.1,0.07,87.5,3.25,322.9,33.17,0.4,0.149,1.0,0.48,0.06,N,Urea
+231,Devi,Pothiraj,1119/1,Virudhunagar,O.Kovilpatti,8.5,0.1,0.11,122.5,3.75,281.25,29.09,0.08,0.138,1.2,0.46,0.06,N,Super Phosphate
+232,Pandeeswari,Rajapandi,1330,Virudhunagar,O.Kovilpatti,8.1,0.1,0.11,126.0,4.25,302.075,28.58,0.08,0.142,1.4,0.5,0.08,N,Super Phosphate
+233,Sankarganesh,Gopal,727/1,Virudhunagar,O.Kovilpatti,7.9,0.4,0.1,115.5,4.25,312.5,29.6,0.08,0.143,1.6,0.52,0.1,N,Super Phosphate
+234,Govindharaman,Krishnasamy,702/2B,Virudhunagar,O.Kovilpatti,8.0,0.2,0.11,126.0,3.75,302.075,29.09,0.08,0.147,0.88,0.54,0.2,N,Super Phosphate
+235,Veerasamy,Seeninaicker,1006/1A,Virudhunagar,Sangaralingapuram,8.1,0.2,0.11,119.0,10.75,281.25,19.52,0.14,0.109,0.76,0.54,0.2,N,Potash
+236,Pitchaikani,Rajaguru,592/4,Virudhunagar,Sangaralingapuram,8.3,0.2,0.11,126.0,12.0,291.675,18.91,0.16,0.107,0.84,2.54,0.1,N,Potash
+237,Chellakani,Gurusamy,592/2,Virudhunagar,Sangaralingapuram,8.3,0.2,0.11,122.5,11.5,270.825,17.69,0.18,0.105,0.82,2.04,0.08,N,Potash
+238,Muthu,Chelladurai, -,Virudhunagar,Sangaralingapuram,8.4,0.1,0.1,112.0,12.5,260.425,17.08,0.02,0.103,0.9,2.0,0.1,N,Potash
+239,Jeyamani,Sundharam,581/1B,Virudhunagar,Sangaralingapuram,8.4,0.1,0.11,129.5,13.25,270.825,16.47,0.2,0.101,0.52,0.46,0.1,N,Potash
+240,Selvi,Rajendhiren,1027/3,Virudhunagar,Sangaralingapuram,8.3,0.1,0.1,112.0,14.0,250.0,15.86,0.2,0.1,0.7,0.54,0.2,N,Potash
+241,Pitchai,Rasaiya,593/3A2,Virudhunagar,Sangaralingapuram,8.3,0.1,0.11,122.5,14.75,260.425,15.25,0.1,0.107,0.7,0.54,0.2,N,Potash
+242,Subramaniyan,Vengatasamy,313/2,Virudhunagar,Sangaralingapuram,8.4,0.1,0.11,122.5,15.5,281.25,14.64,0.12,0.109,0.76,0.7,0.1,N,Potash
+243,Sundharraj,Irulappanadar,602/3A,Virudhunagar,Sangaralingapuram,8.4,0.1,0.1,105.0,12.5,291.675,14.03,0.12,0.111,0.68,0.68,0.06,N,Urea
+244,Sundharraj,Perumalsamy,1005/1A1,Virudhunagar,Sangaralingapuram,8.3,0.1,0.1,105.0,12.0,270.825,18.3,0.6,0.107,0.52,0.72,0.06,N,Urea
+245,Indhirani,Muthumariyappan,462/2B,Virudhunagar,Sangaralingapuram,8.4,0.1,0.13,146.0,11.5,260.425,17.69,0.09,0.109,1.08,0.7,0.08,N,Potash
+246,Palanisamy,Perumal,678/3,Virudhunagar,Sangaralingapuram,8.3,0.1,0.1,112.0,14.0,250.0,17.08,0.06,0.111,1.04,0.22,0.2,N,Potash
+247,Muthulakshmi,Raja,667/2A,Virudhunagar,Sangaralingapuram,8.4,0.1,0.1,115.5,13.25,241.075,16.47,0.4,0.109,1.1,0.22,0.2,N,Potash
+248,Balasubramani,Subbhareddiyar,706/3,Virudhunagar,Sangaralingapuram,8.5,0.1,0.11,129.5,12.5,281.25,17.08,0.08,0.107,1.04,0.24,0.2,N,Potash
+249,Kottairaj,Azhagarsamy,701/2,Virudhunagar,Sangaralingapuram,8.3,0.1,0.13,136.5,12.0,291.675,18.3,0.08,0.105,1.04,0.28,0.1,N,Potash
+250,Sokkammal,Ramasamy,32/13,Virudhunagar,Vadamalaikurichi,8.0,0.4,0.23,122.5,3.75,270.825,0.61,0.24,0.007,3.03,15.84,0.52,P,Super Phosphate
+251,Arunkumar,Anandharaj,104/11A,Virudhunagar,Vadamalaikurichi,7.8,0.5,0.9,147.0,24.25,986.1,17.08,0.47,0.196,9.2,22.43,0.81,P,Potash
+252,Vivekananthan,Thayapura,71/5,Virudhunagar,Vadamalaikurichi,8.0,0.3,0.23,45.5,15.5,343.75,12.81,0.14,0.149,8.14,14.76,0.62,N,Urea
+253,Seethalakshmi,Subbareddiyar,45/3,Virudhunagar,Vadamalaikurichi,8.1,0.2,0.35,147.0,13.25,479.15,8.54,0.32,0.155,7.61,15.94,0.71,N,Potash
+254,Jagaratchagan,Visalakshi,34/1C,Virudhunagar,Vadamalaikurichi,7.9,0.2,0.29,129.5,14.75,534.075,10.37,0.28,0.172,6.82,21.16,0.63,N,Potash
+255,Avudaiyammal,Radhakrishnan,15/14,Virudhunagar,Vadamalaikurichi,8.1,0.2,0.35,147.0,9.25,637.5,12.81,0.16,0.168,5.19,21.24,0.69,N,Potash
+256,S.Chandrakumar, -,200/1,Virudhunagar,Vadamalaikurichi,7.9,0.2,0.29,136.5,10.25,750.0,21.96,0.42,0.172,4.82,22.43,0.42,N,Potash
+257,Muniyandi,Karuppasamy,47/1B2,Virudhunagar,Vadamalaikurichi,8.2,0.2,0.29,129.5,24.25,737.5,28.07,0.38,0.055,3.48,22.43,0.36,N,Potash
+258,A.Palanisamy,Alagarsamy,57/6B,Virudhunagar,Vadamalaikurichi,8.1,0.2,0.35,150.5,5.0,986.0,21.96,0.17,0.069,4.12,21.42,0.52,N,Super Phosphate
+259,Ramasamy,Pandiyaraj,201/2F,Virudhunagar,Vadamalaikurichi,8.1,0.2,0.58,147.0,6.0,1000.0,12.81,0.32,0.084,5.21,17.82,0.64,N,Super Phosphate
+260,Meena,Murugesan,138/9,Virudhunagar,Vadamalaikurichi,8.0,0.1,0.9,147.0,7.5,1035.7,14.03,0.42,0.172,6.34,16.92,0.72,N,Super Phosphate
+261,Rakkammal,Nallathambi,97/9,Virudhunagar,Vadamalaikurichi,8.0,0.2,0.9,147.0,8.25,812.5,14.64,0.16,0.149,7.52,17.81,0.87,N,Super Phosphate
+262,Vengadasamy,Rajagopal,51,Virudhunagar,Vadamalaikurichi,8.1,0.1,0.17,91.0,11.5,700.0,12.96,0.28,0.155,7.48,16.78,0.64,N,Urea
+263,Selvi,Mani,33/4A,Virudhunagar,Vadamalaikurichi,8.1,0.1,0.29,129.5,22.0,511.35,28.07,0.41,0.172,6.98,21.21,0.72,N,Potash
+264,Sangaiya,Subramaniyan,142/7,Virudhunagar,Vadamalaikurichi,8.0,0.2,0.23,105.0,26.75,342.5,12.81,0.38,0.172,7.21,21.42,0.81,N,Urea
+265,Ramanujam,Velsamy,190/1A,Virudhunagar,Vadamalaikurichi,8.0,0.2,0.17,91.0,35.0,458.325,12.2,0.16,0.115,9.12,16.72,0.71,N,Urea
+266,Valarmathi, -,100/1,Virudhunagar,Vadamalaikurichi,8.0,0.2,0.9,147.0,42.5,843.75,10.98,0.28,0.084,4.62,17.84,0.61,N,Potash
+267,Paneerpandi,Chinnathambi,57/8B,Virudhunagar,Vadamalaikurichi,8.2,0.2,0.9,147.0,51.0,625.0,9.76,0.41,0.111,5.63,18.92,0.49,N,Potash
+268,Jothilakshmi,Sivasangu,67/4A1A,Virudhunagar,Vadamalaikurichi,8.1,0.2,0.9,147.0,51.75,522.725,6.71,0.36,0.097,7.13,16.36,0.66,N,Potash
+269,Ramasamy,Narayanan,32/11,Virudhunagar,Vadamalaikurichi,7.8,0.3,0.23,122.5,49.25,1035.7,11.59,0.23,0.149,8.14,17.54,0.32,N,Potash
+270,Solairaj,Varadharajan,104/11B,Virudhunagar,Vadamalaikurichi,8.0,0.2,0.29,140.0,47.5,1250.0,10.37,0.34,0.153,4.81,15.42,0.41,N,Potash
+271,Pandi,Muthaiah,54,Virudhunagar,Vadamalaikurichi,8.0,0.4,0.9,147.0,45.75,1035.7,13.42,0.47,0.115,6.93,13.62,0.52,N,Potash
+272,Subburaman,Thanajeyan,190/1B,Virudhunagar,Vadamalaikurichi,8.1,0.2,0.9,147.0,40.0,250.0,12.81,0.21,0.134,8.11,14.72,0.61,N,Potash
+273,Gurusamy,Gurusamy,100/2,Virudhunagar,Vadamalaikurichi,8.0,0.4,0.9,147.0,32.5,458.325,16.47,0.24,0.155,7.68,15.64,0.63,N,Potash
+274,Thannammal,Vairavan,45/2,Virudhunagar,Vadamalaikurichi,8.0,0.3,0.9,147.0,25.75,511.35,15.25,0.37,0.134,9.13,16.74,0.72,N,Potash
+275,Selvam,Gurusamy,190/2,Virudhunagar,Vadamalaikurichi,8.1,0.2,0.9,147.0,27.5,637.5,12.81,0.43,0.111,8.49,17.82,0.54,N,Potash
+276,Karuppaiah,Vellaichamy ,45/2,Virudhunagar,Vadamalaikurichi,8.1,0.3,0.86,147.0,35.0,302.075,13.42,0.41,0.153,7.89,13.41,0.61,N,Potash
+277,Jeyakumar,Balaguruvan,32/11,Virudhunagar,Vadamalaikurichi,8.0,0.2,0.8,147.0,38.25,500.0,10.98,0.32,0.149,6.78,14.58,0.72,N,Potash
+278,Selvakumar,Subburaj,200/2,Virudhunagar,Vadamalaikurichi,8.0,0.2,0.8,147.0,44.25,812.5,9.76,0.29,0.083,7.11,12.84,0.84,N,Potash
+279,Ilayaraj,Vevaraj,57/6A,Virudhunagar,Vadamalaikurichi,7.4,0.2,0.86,147.0,51.0,1000.0,10.37,0.26,0.098,7.32,13.62,0.34,N,Potash
+280,Thangadurai,Vellayakudumbai,57/6C,Virudhunagar,Vadamalaikurichi,7.8,0.1,0.61,147.0,42.5,625.0,12.81,0.34,0.149,7.89,15.12,0.28,M,Potash
+281,Mariyappan,Palani,45/2,Virudhunagar,Vadamalaikurichi,7.8,0.1,0.9,147.0,43.25,1035.7,13.42,0.46,0.117,8.12,12.31,0.32,M,Potash
+282,Thenammal,Vanniyaperumal,312/2,Virudhunagar,Vadamalaikurichi,7.9,0.4,0.9,147.0,40.0,650.0,15.25,0.38,0.094,8.13,15.81,0.42,M,Potash
+283,Muthu,Subbahiyan,218/2,Virudhunagar,Vadamalaikurichi,7.7,0.2,0.61,147.0,34.25,750.0,11.59,0.19,0.097,5.42,13.42,0.41,M,Potash
+284,Visalatchi,Jagaratchagan,217/2,Virudhunagar,Vadamalaikurichi,7.7,0.3,0.31,133.0,32.5,500.0,7.93,0.17,0.155,6.78,17.81,0.58,M,Potash
+285,Sulochana,Devaraj,168/1,Virudhunagar,Vadamalaikurichi,8.0,0.2,0.49,147.0,30.75,479.15,11.59,0.24,0.172,7.82,15.31,0.72,M,Potash
+286,Sekar,Ramar,154/2,Virudhunagar,Vadamalaikurichi,7.8,0.2,0.61,147.0,11.5,1150.0,12.81,0.38,0.115,8.91,9.81,0.64,M,Potash
+287,Pappureddiyar,Thayaparan,87/1,Virudhunagar,Vadamalaikurichi,7.8,0.2,0.9,147.0,22.0,812.5,14.03,0.46,0.097,3.03,12.61,0.56,M,Potash
+288,Backiyaraj,Seenivasan,45/2,Virudhunagar,Vadamalaikurichi,7.7,0.2,0.9,147.0,26.75,712.5,10.98,0.41,0.094,4.21,11.81,0.54,M,Potash
+289,Erulappan,Subbaiah,47/1B2,Virudhunagar,Vadamalaikurichi,8.1,0.3,0.9,147.0,35.75,522.725,9.76,0.42,0.097,7.82,12.31,0.38,M,Potash
+290,Rajaguru,Subbareddiyar,37/7B,Virudhunagar,Vadamalaikurichi,8.0,0.2,0.9,147.0,36.75,650.0,8.54,0.32,0.13,5.42,13.84,0.62,M,Potash
+291,Palanisamy,Alagarsamy,57/6B,Virudhunagar,Vadamalaikurichi,7.7,0.5,0.55,147.0,34.25,781.25,5.49,0.41,0.134,6.39,15.81,0.61,M,Potash
+292,Mookammal,Ramanathan,77/7B,Virudhunagar,Vadamalaikurichi,8.0,0.3,0.55,147.0,22.0,1000.0,10.98,0.29,0.168,7.12,12.61,0.78,M,Potash
+293,Rajeshwari,Gurusamy,139/9,Virudhunagar,Vadamalaikurichi,8.1,0.2,0.55,147.0,72.25,1187.5,6.71,0.22,0.174,8.14,13.84,0.84,M,Potash
+294,Palanisamy,Alagarsamy,67/6C,Virudhunagar,Vadamalaikurichi,8.0,0.2,0.43,150.5,31.75,1035.7,12.87,0.29,0.168,5.42,14.17,0.83,M,Potash
+295,Jothilakshmi,Sivasangu,166/3B,Virudhunagar,Vadamalaikurichi,8.0,0.2,0.49,147.0,24.25,322.9,6.71,0.16,0.055,4.84,13.18,0.63,M,Potash
+296,Savithiri,Ramanathan,139/9,Virudhunagar,Vadamalaikurichi,8.0,0.2,0.8,147.0,26.75,447.9,12.81,0.36,0.069,7.81,14.76,0.72,M,Potash
+297,Meena,Murugesan,122/12,Virudhunagar,Vadamalaikurichi,8.0,0.2,0.9,147.0,22.0,737.5,21.96,0.24,0.192,6.49,12.34,0.71,M,Potash
+298,Santhi,Pandiyaraj,46/2A6,Virudhunagar,Vadamalaikurichi,7.8,0.2,0.9,147.0,25.75,712.5,25.52,0.32,0.172,5.12,11.89,0.84,M,Potash
+299,Rajalakshmi,Krishnasamy,127/4,Virudhunagar,Vadamalaikurichi,8.1,0.2,0.9,147.0,35.0,511.35,12.81,0.48,0.117,4.69,10.96,0.92,M,Potash
+300,Subbulakshmi,Rajagopal,132/1,Virudhunagar,Vadamalaikurichi,8.2,0.1,0.9,147.0,49.25,406.25,11.59,0.52,0.205,5.31,10.94,0.74,M,Potash
